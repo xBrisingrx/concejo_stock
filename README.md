@@ -1,0 +1,1 @@
+concejo_stock
